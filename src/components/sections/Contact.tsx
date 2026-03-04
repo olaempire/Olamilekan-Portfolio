@@ -31,7 +31,7 @@ export function Contact() {
 
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-12">
             <a
-              href="isholaganiu20018@gmail.com"
+              href="mailto:isholaganiu20018@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-4 font-black text-base neo-border bg-[hsl(var(--primary))] text-black neo-shadow hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all duration-200"
