@@ -60,7 +60,7 @@ export function Hero() {
               <motion.span
                 className="block text-transparent bg-clip-text text-stroke-lg"
                 style={{
-                  backgroundImage: 'linear-gradient(90deg, #280905, #740A03, #00F5FF, #C3110C, #E6501B, #280905)',
+                  backgroundImage: 'linear-gradient(90deg, #fc1d00, #740A03, #1aff00, #C3110C, #E6501B, #098258)',
                   backgroundSize: '200% auto',
                   WebkitBackgroundClip: 'text',
                   WebkitTextFillColor: 'transparent',

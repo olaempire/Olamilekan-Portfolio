@@ -4,8 +4,8 @@ import { Container } from '@/components/ui/Container';
 
 const stats = [
   { label: 'YEARS EXP.', value: 3, suffix: '+' },
-  { label: 'PROJECTS', value: 20, suffix: '+' },
-  { label: 'CLIENTS', value: 10, suffix: '+' },
+  { label: 'PROJECTS', value: 15, suffix: '+' },
+  { label: 'CLIENTS', value: 9, suffix: '+' },
 ];
 
 function CountUp({ target, suffix }: { target: number; suffix: string }) {
@@ -69,7 +69,7 @@ export function About() {
                 transition={{ delay: i * 0.1 }}
                 className="neo-border neo-shadow bg-[hsl(var(--muted))] p-6 text-center"
               >
-                <div className="text-5xl font-black text-[hsl(var(--secondary))]">
+                <div className="text-3xl font-black text-[hsl(var(--secondary))]">
                   <CountUp target={value} suffix={suffix} />
                 </div>
                 <div className="text-xs font-black mt-2 opacity-70">{label}</div>
