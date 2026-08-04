@@ -4,9 +4,7 @@ import { Mail, Github, Twitter, Linkedin, Send } from 'lucide-react';
 import { Container } from '@/components/ui/Container';
 
 const socialLinks = [
-  { icon: Github, href: 'https://github.com/olaempire', label: 'GitHub', color: 'bg-[hsl(var(--secondary))]' },
   { icon: Twitter, href: 'https://twitter.com/OlaEmpire0', label: 'Twitter', color: 'bg-[hsl(var(--accent))]' },
-  { icon: Linkedin, href: 'https://linkedin.com/in/abdulganiu', label: 'LinkedIn', color: 'bg-[hsl(var(--primary))]' },
 ];
 
 export function Contact() {
