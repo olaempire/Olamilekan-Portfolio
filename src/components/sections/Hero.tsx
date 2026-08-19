@@ -60,7 +60,7 @@ export function Hero() {
               <motion.span
                 className="block text-transparent bg-clip-text text-stroke-lg"
                 style={{
-                  backgroundImage: 'linear-gradient(90deg, #fc1d00, #740A03, #1aff00, #C3110C, #E6501B, #098258)',
+                  backgroundImage: 'linear-gradient(90deg, #ff4e50, #f9d423, #ff9068, #fd746c)',
                   backgroundSize: '200% auto',
                   WebkitBackgroundClip: 'text',
                   WebkitTextFillColor: 'transparent',
@@ -74,7 +74,7 @@ export function Hero() {
                   ease: 'linear',
                 }}
               >
-                DEVELOPER
+                ENGINEER
               </motion.span>
 
             </h1>
