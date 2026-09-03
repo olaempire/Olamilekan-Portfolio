@@ -74,7 +74,7 @@ export function Hero() {
                   ease: 'linear',
                 }}
               >
-                ENGINEER
+                DEVELOPER
               </motion.span>
 
             </h1>
