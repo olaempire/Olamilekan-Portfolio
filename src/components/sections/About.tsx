@@ -48,7 +48,6 @@ export function About() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <motion.div initial={{ opacity: 0, x: -20 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} className="space-y-6">
             <p className="text-xl font-bold leading-relaxed border-l-8 border-[hsl(var(--border))] pl-6 py-2">
-              I BUILD DIGITAL SYSTEMS, NOT JUST INTERFACES.
               I’M A FRONTEND, BACKEND AND CREATIVE ENGINEER & PRODUCT BUILDER WHO TURNS RAW IDEAS INTO THOUGHTFUL, 
               SCALABLE DIGITAL PRODUCTS. 
               I WORK ACROSS UI ENGINEERING, SYSTEM DESIGN, ARCHITECTURE, AND PRODUCT EXPERIENCE — BRIDGING THE GAP BETWEEN
