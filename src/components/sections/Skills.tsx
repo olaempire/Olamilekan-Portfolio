@@ -101,7 +101,7 @@ export function Skills() {
         <div className="mt-16 h-64 bg-[hsl(var(--background))]">
           {skillsDone && (
             <FallingText
-              text="REACT TYPESCRIPT WORDPRESS UI/UX WEBGL JAVASCRIPT HTML/CSS NODE.JS EXPRESS NEXT.JS ANGULAR FRAMER-MOTION TAILWIND"
+              text="REACT TYPESCRIPT WORDPRESS UI/UX GSAP JAVASCRIPT HTML/CSS NODE.JS EXPRESS NEXT.JS ANGULAR FRAMER-MOTION TAILWIND"
               highlightWords={['REACT', 'TYPESCRIPT', 'FIGMA']}
               trigger="auto"
               gravity={1}
