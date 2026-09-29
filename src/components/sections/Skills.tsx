@@ -102,7 +102,7 @@ export function Skills() {
           {skillsDone && (
             <FallingText
               text="REACT TYPESCRIPT WORDPRESS UI/UX REACTNATIVE GSAP JAVASCRIPT HTML/CSS NODE.JS EXPRESS NEXT.JS ANGULAR FRAMER-MOTION TAILWIND"
-              highlightWords={['REACT', 'TYPESCRIPT', 'FIGMA']}
+              highlightWords={['REACT', 'TYPESCRIPT', 'FIGMA', 'REACTNATIVE']}
               trigger="auto"
               gravity={1}
               fontSize="1.5rem"
